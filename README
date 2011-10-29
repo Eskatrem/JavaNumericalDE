@@ -1,0 +1,2 @@
+Java implementation of numerical methods to solve differential equations. I plan to code finite difference methods mainly. 
+For now only first order differential equations are covered. I include an example: solving y' = y with y(0) = 1.
